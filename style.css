@@ -3,11 +3,17 @@
     padding: 0;
 }
 
+:root{
+    font-family: "Open Sans", sans-serif;
+    line-height: 150%;
+}
+
 
 #page {
     width: 1120px;
     border-radius: 24px;
-    margin: 80px auto;
+    margin: auto;
+     box-sizing: border-box;
 }
 
 
@@ -22,5 +28,43 @@
 
 main{
     padding: auto;
+
+}
+
+p {
+    font-size: 16px;
+    color: #1E1E1E;
+}
+
+h1 {
+    line-height: 140%;
+    font-size: 36px;
+}
+b {
+    color: #E1624F;
+    font-size: 16px;
+}
+
+img{
+  border-radius: 28px;
+}
+.historia{
+    color: #0C51A7;
+}
+
+.motivos{
+    color: #333333;
+}
+
+.casais{
+    color: #591B98;
+}
+
+.familias{
+    color: #E5245E;
+}
+
+.orcamentos{
+    color: #E95E10;
 }
 
