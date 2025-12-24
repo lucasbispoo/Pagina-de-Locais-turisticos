@@ -114,3 +114,8 @@ ul{
     font-style: italic;
 
 }
+
+.line{
+    margin-top: 40px;
+    border: 1px solid #D9D9D9;
+}
