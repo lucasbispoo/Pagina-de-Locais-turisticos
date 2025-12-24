@@ -12,8 +12,7 @@
 #page {
     width: 1120px;
     border-radius: 24px;
-    margin: auto;
-     box-sizing: border-box;
+    margin: 40px auto;
 }
 
 
@@ -40,6 +39,17 @@ h1 {
     line-height: 140%;
     font-size: 36px;
 }
+
+h2{
+    line-height: 140%;
+    font-size: 32px;
+}
+
+h3{
+    line-height: 140%;
+    font-size: 28px;
+}
+
 b {
     color: #E1624F;
     font-size: 16px;
@@ -48,6 +58,11 @@ b {
 img{
   border-radius: 28px;
 }
+
+ul{
+    padding-left: 24px;
+}
+
 .historia{
     color: #0C51A7;
 }
@@ -68,3 +83,23 @@ img{
     color: #E95E10;
 }
 
+.final{
+    padding-top: 40px;
+}
+
+.parque p{
+    padding-bottom: 20px;
+}
+.beomeo p{
+    padding-bottom: 20px;
+}
+
+.templo p{
+    padding-bottom: 20px;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 40px 0px;
+}
