@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#page {
+    width: 1120px;
+    border-radius: 24px;
+    margin: 80px auto;
+}
+
+
+.busan {
+    width: 1120px 660px;
+    border-radius: 28px;
+}
+
+.busann p{
+    margin-top: 24px;
+}
+
+main{
+    padding: auto;
+}
+
